@@ -17,7 +17,8 @@ Explore some of the initiatives I have worked on:
 - **[Elevator Model](https://github.com/ViniciusFranklin22/Elevator_Model_Using_ATmega16):** Simulation using the ATmega16 microcontroller and C programming.  
 - **[Store Inventory Control](https://github.com/ViniciusFranklin22/Store_Storage_Control_Project):** Inventory management application using SQLite3 and Tkinter.  
 - **[Basketball Data Analysis](https://github.com/ViniciusFranklin22/Basketball_Data):** Sports data exploration with pandas and Python.  
-- **[Spotify API Applications](https://github.com/ViniciusFranklin22/Spotify_API):** Development of interactive applications using Flask.  
+- **[Spotify API Applications](https://github.com/ViniciusFranklin22/Spotify_API):** Development of interactive applications using Flask.
+- **[TicTacToe AI](https://github.com/ViniciusFranklin22/TicTacToe_AI):** Development of an unbeatable TicTacToe AI.
 
 Feel free to explore more projects by browsing my repositories. I am confident you will find something interesting!  
 
