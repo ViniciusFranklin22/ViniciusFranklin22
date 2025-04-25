@@ -38,7 +38,7 @@ These panels display:
 
 ## 📫 Contact  
 - **Email:** [viniciusfpmazevedo@gmail.com](mailto:viniciusfpmazevedo@gmail.com)  
-- **LinkedIn:** [Visit my profile](https://www.linkedin.com/in/viniciusfranklin22)  
+- **LinkedIn:** [Visit my profile](www.linkedin.com/in/vinícius-franklin-36ba69264)  
 
 ---
 
